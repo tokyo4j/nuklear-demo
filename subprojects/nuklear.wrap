@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/Immediate-Mode-UI/Nuklear.git
+revision = 8e5c9f7f345c7a7560f4538ffc42e7f1baff0f10
+patch_directory = nuklear
+
+[provide]
+dependency_names = nuklear
